@@ -90,36 +90,36 @@ ChatGPT와 로컬 개발 환경을 연결하는 AI coding bridge.
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 [PABA](https://github.com/Anjingyeong/paba)
-단일 매장의 근태·급여·월마감·명세서 출력을 다루는 백엔드 중심 웹앱.
-
-<sub>Django · PostgreSQL · Playwright · Docker</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 [RF-DETR Endoscopy](https://github.com/Anjingyeong/RF-DETR-project)
-실시간 대장 내시경 용종 탐지 데스크톱 애플리케이션.
-
-<sub>Python · RF-DETR · OpenCV · PyQt5</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [Smart Safety AI Wiki](https://github.com/Anjingyeong/llm_wiki_strange)
-실시간 관제 프로젝트의 설계·실험 문서를 Hybrid RAG로 검색하는 지식 시스템.
+### 📚 [LLM Wiki](https://github.com/Anjingyeong/llm_wiki_strange)
+실시간 관제 프로젝트의 설계·실험 근거를 Hybrid RAG로 검색하는 지식 시스템.
 
 <sub>TypeScript · Node.js · RAG · RRF · Cloudflare</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Developer Portfolio](https://github.com/Anjingyeong/anjingyeong.github.io)
-프로젝트와 개발 경험을 정리한 개인 포트폴리오.
+### 👁️ [Smart Safety AI](https://github.com/strangeRookies/ai)
+RTSP 영상에서 자세 추정·시계열 분류를 수행하고 MQTT 이벤트로 전달하는 실시간 AI 파이프라인.
 
-<sub>React · TypeScript · Tailwind CSS</sub>
+<sub>Python · YOLO26n-pose · LSTM · MQTT · RTSP</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [RF-DETR Endoscopy](https://github.com/Anjingyeong/RF-DETR-project)
+실시간 대장 내시경 용종 탐지와 이벤트 워크플로우를 연결한 의료 AI 애플리케이션.
+
+<sub>Python · RF-DETR · OpenCV · PyQt5</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [VAE Breast Anomaly Detection](https://github.com/Anjingyeong/vae-breast-cancer-anomaly)
+정상 초음파 재구성 오차를 이용해 병변 후보를 찾는 비지도 의료영상 이상탐지 프로젝트.
+
+<sub>Python · TensorFlow · VAE · OpenCV</sub>
 
 </td>
 </tr>
